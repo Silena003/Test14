@@ -11,6 +11,19 @@ public class NewManager {
     }
     public NewManager() {
     }
-
-
+//public Movie[] getAll() {
+//        Movie[] movies =
+//}
+//  ??? resultLength;
+//  if ??? {
+//        resultLength = ???
+//    } else {
+//        resultLength = ???
+//    }
+//  ??? result = new ???[resultLength];
+//  for (???) {
+//        // заполняем result из массива что лежит в поле
+//        // в обратном порядке
+//    }
+//...
 }
