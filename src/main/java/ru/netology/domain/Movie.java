@@ -11,6 +11,8 @@ public class Movie {
                 "Тролли. Мировой тур",
                 "Номер один"
         };
-
+        String[] tmp = new String[movie.length];
     }
+
+
 }
